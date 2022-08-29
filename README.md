@@ -21,7 +21,7 @@ LokiDB CLI (connect to server)
 
 ### Installation
 #### Docker
-```
+```shell
 docker run -it yoyocode/lokidb-cli -addr <grpc_host>:<grpc_port>
 ```
 
