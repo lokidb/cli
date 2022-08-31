@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 
-	client "github.com/lokidb/server/clients/go"
+	client "github.com/lokidb/server/client"
 )
 
 func errorToMessage(err error) string {

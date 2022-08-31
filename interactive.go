@@ -8,7 +8,7 @@ import (
 
 	"github.com/chzyer/readline"
 
-	client "github.com/lokidb/server/clients/go"
+	"github.com/lokidb/server/client"
 )
 
 type empty struct{}

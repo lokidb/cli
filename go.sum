@@ -9,10 +9,10 @@ github.com/golang/protobuf v1.5.2 h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw
 github.com/golang/protobuf v1.5.2/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiuN0vRsmY=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.6 h1:BKbKCqvP6I+rmFHt06ZmyQtvB8xAkWdhFyr0ZUNZcxQ=
-github.com/lokidb/engine v0.0.0-20220829163745-7bf8080ef66a h1:Gpv34uagiNsY1dv61QwAq29bKSf5XBMIQQeo7UArT74=
-github.com/lokidb/engine v0.0.0-20220829163745-7bf8080ef66a/go.mod h1:mPBAB2IrKvTbfRe0w6akf4lPCHv/g891e3oksI8Vu+A=
-github.com/lokidb/server v0.0.0-20220829171926-15352eb53f47 h1:8SnKkrOG4EX3jDIciPYPGICzwyuquIVXcmJpWGBjESE=
-github.com/lokidb/server v0.0.0-20220829171926-15352eb53f47/go.mod h1:fl0ozPtTFt8WsVXJIXyeqO53DveMAsQU0DkN+/Azdv8=
+github.com/lokidb/engine v0.0.0-20220830214223-2556cdc39b8f h1:iamwHMcQU36KNNCqIB3OX3qyIkTB8/p4gtQJDTq3u5E=
+github.com/lokidb/engine v0.0.0-20220830214223-2556cdc39b8f/go.mod h1:mPBAB2IrKvTbfRe0w6akf4lPCHv/g891e3oksI8Vu+A=
+github.com/lokidb/server v0.0.0-20220831182543-0bc07979ed68 h1:uZuH95dSHQs02mxYUygJRTpL4cWVpGM2JEW5D46J2G0=
+github.com/lokidb/server v0.0.0-20220831182543-0bc07979ed68/go.mod h1:vwubzJCmnojLCFjyYLI8wHlpDNmFlUHeJ1bOFB1O0Ic=
 golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b h1:ZmngSVLe/wycRns9MKikG9OWIEjGcGAkacif7oYQaUY=
 golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b/go.mod h1:YDH+HFinaLZZlnHAfSS6ZXJJ9M9t4Dl22yv3iI2vPwk=
 golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
