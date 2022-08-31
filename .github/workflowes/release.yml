@@ -1,0 +1,25 @@
+name: Release
+
+on:
+  release: 
+    types: [created]
+  
+
+jobs:
+
+  build_and_publish:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Build the Docker image
+      run: docker build -t yoyocode/lokidb-cli:latest .
+
+    - name: Login to DockerHub
+      run: docker login -u yoyocode -p ${{ secrets.DOCKERHUB_PASSWORD }}
+      
+    - name: Push to DockerHub
+      run: docker push yoyocode/lokidb-cli:latest
+  
