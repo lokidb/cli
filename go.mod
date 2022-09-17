@@ -9,7 +9,7 @@ require (
 
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/lokidb/engine v0.0.0-20220830214223-2556cdc39b8f // indirect
+	github.com/lokidb/engine v0.0.0-20220917182939-a6bd41812cef // indirect
 	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b // indirect
 	golang.org/x/sys v0.0.0-20220825204002-c680a09ffe64 // indirect
 	golang.org/x/text v0.3.7 // indirect
